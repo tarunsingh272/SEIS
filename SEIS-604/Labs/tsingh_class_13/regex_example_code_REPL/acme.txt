@@ -1,0 +1,23 @@
+X-RP-State: 1095x{ar}y394<rne>3a34<med>41a<aai>x{bb}y
+MIME-Version: 1.0
+Date: Sun, 18 Sep 1949
+From: wile.e.coyote@desert.example.com
+To: support@acme.example.com
+Subject: suit failure
+
+Content-Type: text/plain; charset="ASCII"
+
+Dear sirs,
+
+I'm writing to inform you of a drastic failure of your ACME Super Outfit. On Saturday, September 17, I endeavored to use your suit to achieve the dream of flight. I was beyond hopeful that my purchase from Acme Corporation would finally enable to capture my nemesis, the Road Runner.
+
+I am confident that I used your Super Outfit according to the directions, as it is well known, I am a super-genius. After failing to achieve my goals using a variety of mechanisms, including boomerang, a fake "School Crossing" sign, a rocket launcher, and a mural of a tunnel, I turned to your corporation's device. I was most disappointed at its failure, in fact, I uttered the oath "$#^!*" then screamed "Aaaaaaaaaah!" all the way to the ground.
+
+Product information was as follows:
+
+ACME Super Outfit
+Model: 3990[X]\5
+S/N: 9230413-3
+Date of purchase: Friday September 15, 1949
+
+Enclosed, please find an invoice for my hospital bills. The large fall was quite incapacitating.
